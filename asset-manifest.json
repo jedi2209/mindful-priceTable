@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mindful-priceTable/static/css/main.7188229d.css",
+    "main.js": "/mindful-priceTable/static/js/main.1b47cbe4.js",
+    "index.html": "/mindful-priceTable/index.html",
+    "main.7188229d.css.map": "/mindful-priceTable/static/css/main.7188229d.css.map",
+    "main.1b47cbe4.js.map": "/mindful-priceTable/static/js/main.1b47cbe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7188229d.css",
+    "static/js/main.1b47cbe4.js"
+  ]
+}
